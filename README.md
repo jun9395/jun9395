@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### About Me
+- Blog : [my_github_blog](jun9395.github.io)
+
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jun9395)](https://github.com/jun9395/github-readme-stats)
+
 <!--
 **jun9395/jun9395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
