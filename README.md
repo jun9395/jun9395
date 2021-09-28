@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 ### About Me
 - Blog : [my_github_blog](https://jun9395.github.io)
 
